@@ -1,2 +1,14 @@
+Metods.java
+ Metods
+Metods246.java
+ Metods246
+Metods244.java
+ Metods244
 TwoStep.java
  TwoStep
+Metodth243.java
+ Metodth243
+Metods247.java
+ Metods247
+Task2418.java
+ Task2418
